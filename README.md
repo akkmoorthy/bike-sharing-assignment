@@ -22,13 +22,9 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Conclusion:
 Significant variables to predict the demand for shared bikes:
-- temp
-- year
-- atemp
-- workingday
-- humidity
-- Season
-- months(May, June, July, August, September, October)
+- The variables year, temp, weathersit(value=3 LightSnow), spring season are big factors influencing the demand of shared bikes.
+- Temperature and Year have positive effect/relation on the demand for bikes.
+- LightSnow and spring season have a negative effect on the demand.
 
 ## Acknowledgements:
 This project really helps to analyze the data with various data set given hence appreciate the opportunity given for us by Upgrad and IIIT Bangalore.
